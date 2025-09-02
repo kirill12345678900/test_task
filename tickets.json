@@ -1,8 +1,8 @@
 {
   "tickets": [
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "01.03.24",
       "departure_time": "08:45",
       "arrival_date": "01.03.24",
@@ -11,8 +11,8 @@
       "price": 28700
     },
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "01.03.24",
       "departure_time": "14:30",
       "arrival_date": "01.03.24",
@@ -21,8 +21,8 @@
       "price": 21300
     },
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "02.03.24",
       "departure_time": "06:15",
       "arrival_date": "02.03.24",
@@ -31,8 +31,8 @@
       "price": 33200
     },
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "02.03.24",
       "departure_time": "11:20",
       "arrival_date": "02.03.24",
@@ -41,8 +41,8 @@
       "price": 19800
     },
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "03.03.24",
       "departure_time": "09:00",
       "arrival_date": "03.03.24",
@@ -51,8 +51,8 @@
       "price": 30100
     },
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "03.03.24",
       "departure_time": "16:10",
       "arrival_date": "03.03.24",
@@ -61,8 +61,8 @@
       "price": 35400
     },
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "04.03.24",
       "departure_time": "07:30",
       "arrival_date": "04.03.24",
@@ -71,8 +71,8 @@
       "price": 26500
     },
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "04.03.24",
       "departure_time": "13:45",
       "arrival_date": "04.03.24",
@@ -81,8 +81,8 @@
       "price": 18700
     },
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "05.03.24",
       "departure_time": "10:20",
       "arrival_date": "05.03.24",
@@ -91,8 +91,8 @@
       "price": 31900
     },
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "05.03.24",
       "departure_time": "18:40",
       "arrival_date": "06.03.24",
@@ -101,8 +101,8 @@
       "price": 20400
     },
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "06.03.24",
       "departure_time": "08:55",
       "arrival_date": "06.03.24",
@@ -111,8 +111,8 @@
       "price": 29500
     },
     {
-      "origin": "KHV",
-      "destination": "SDV",
+      "origin": "VVO",
+      "destination": "TLV",
       "departure_date": "06.03.24",
       "departure_time": "15:25",
       "arrival_date": "06.03.24",

@@ -11,11 +11,11 @@ public class TicketAnalyzer {
             TicketData ticketData = TicketParser.parseJsonFile(filePath);
 
             List<Ticket> relevantTickets = ticketData.getTickets().stream()
-                    .filter(t -> "KHV".equals(t.getOrigin()) && "SDV".equals(t.getDestination()))
+                    .filter(t -> "VVO".equals(t.getOrigin()) && "TLV".equals(t.getDestination()))
                     .collect(Collectors.toList());
 
             if (relevantTickets.isEmpty()) {
-                System.out.println("Билеты по маршруту не найдены KHV -> SDV");
+                System.out.println("Билеты по маршруту не найдены VVO -> TLV");
                 return;
             }
 
