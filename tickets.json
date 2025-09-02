@@ -1,0 +1,124 @@
+{
+  "tickets": [
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "01.03.24",
+      "departure_time": "08:45",
+      "arrival_date": "01.03.24",
+      "arrival_time": "15:20",
+      "carrier": "S7",
+      "price": 28700
+    },
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "01.03.24",
+      "departure_time": "14:30",
+      "arrival_date": "01.03.24",
+      "arrival_time": "23:15",
+      "carrier": "SU",
+      "price": 21300
+    },
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "02.03.24",
+      "departure_time": "06:15",
+      "arrival_date": "02.03.24",
+      "arrival_time": "14:40",
+      "carrier": "TK",
+      "price": 33200
+    },
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "02.03.24",
+      "departure_time": "11:20",
+      "arrival_date": "02.03.24",
+      "arrival_time": "19:55",
+      "carrier": "S7",
+      "price": 19800
+    },
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "03.03.24",
+      "departure_time": "09:00",
+      "arrival_date": "03.03.24",
+      "arrival_time": "16:45",
+      "carrier": "SU",
+      "price": 30100
+    },
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "03.03.24",
+      "departure_time": "16:10",
+      "arrival_date": "03.03.24",
+      "arrival_time": "23:50",
+      "carrier": "TK",
+      "price": 35400
+    },
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "04.03.24",
+      "departure_time": "07:30",
+      "arrival_date": "04.03.24",
+      "arrival_time": "15:15",
+      "carrier": "S7",
+      "price": 26500
+    },
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "04.03.24",
+      "departure_time": "13:45",
+      "arrival_date": "04.03.24",
+      "arrival_time": "22:30",
+      "carrier": "SU",
+      "price": 18700
+    },
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "05.03.24",
+      "departure_time": "10:20",
+      "arrival_date": "05.03.24",
+      "arrival_time": "18:05",
+      "carrier": "TK",
+      "price": 31900
+    },
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "05.03.24",
+      "departure_time": "18:40",
+      "arrival_date": "06.03.24",
+      "arrival_time": "02:25",
+      "carrier": "S7",
+      "price": 20400
+    },
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "06.03.24",
+      "departure_time": "08:55",
+      "arrival_date": "06.03.24",
+      "arrival_time": "16:40",
+      "carrier": "SU",
+      "price": 29500
+    },
+    {
+      "origin": "KHV",
+      "destination": "SDV",
+      "departure_date": "06.03.24",
+      "departure_time": "15:25",
+      "arrival_date": "06.03.24",
+      "arrival_time": "23:10",
+      "carrier": "TK",
+      "price": 34100
+    }
+  ]
+}
