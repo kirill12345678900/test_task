@@ -4,14 +4,16 @@ import java.time.Duration;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeFormatterBuilder;
+import java.time.format.SignStyle;
+import java.time.temporal.ChronoField;
 import java.util.*;
 
 public class TicketStatistics {
 
     private static final DateTimeFormatter FORMATTER = new DateTimeFormatterBuilder()
-            .appendPattern("dd.MM.yy")
-            .appendLiteral(' ')
-            .appendPattern("HH:mm")
+            .appendPattern("dd.MM.yy ")
+            .appendValue(ChronoField.HOUR_OF_DAY, 1, 2, SignStyle.NOT_NEGATIVE)
+            .appendPattern(":mm")
             .toFormatter();
 
     public static Map<String, Duration> calculateMinFlightTimeByCarrier(List<Ticket> tickets) {
